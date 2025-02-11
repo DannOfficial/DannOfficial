@@ -18,11 +18,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF69B4&center=true&vCenter=true&width=500&lines=I'm+in+love+with+%E2%9D%A4%EF%B8%8F+Someone+Special" />
 </p>
 
-while (true) {
-    printf("I'm in love with **someone special** ❤️");
-}
-<p align="center"> <img src="https://media.giphy.com/media/paTz7UZbOiWZC/giphy.gif" width="300px"> </p>
----
+<p align="center">
+  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media4.giphy.com/media/3uv5ivx6xwqze/giphy.gif?cid=6c09b95226skm2yv52y6mzok7qm4b733wn2tejzq0oy7wlyj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)" width="40px">
+</p>
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **awesome projects**  
