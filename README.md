@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DannOfficial">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00a2ff&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor;Welcome+to+my+GitHub+Profile!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00a2ff&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+&+Mobile+Developer;Open+Source+Contributor;Welcome+to+my+GitHub+Profile!">
   </a>
 </p>
 
