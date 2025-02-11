@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm DannOfficial! 👋</h1>
+<h1 align="center">Hi there, I'm Dani!</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
@@ -18,10 +18,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF69B4&center=true&vCenter=true&width=500&lines=I'm+in+love+with+%E2%9D%A4%EF%B8%8F+Someone+Special" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300px">
-</p>
-
+while (true) {
+    printf("I'm in love with **someone special** ❤️");
+}
+<p align="center"> <img src="https://media.giphy.com/media/paTz7UZbOiWZC/giphy.gif" width="300px"> </p>
 ---
 
 ## 🚀 About Me  
