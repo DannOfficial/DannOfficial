@@ -1,4 +1,4 @@
-# 👋 Selamat Datang di DannOfficial!
+# 👋 Halo Semua
 
 ### 🚀 Tentang Saya
 Halo! Saya **DannOfficial**, seorang pengembang yang antusias dalam dunia teknologi dan pemrograman. Saya senang mengeksplorasi berbagai teknologi baru serta membangun proyek-proyek open-source yang bermanfaat.  
@@ -11,10 +11,10 @@ Berikut adalah beberapa repository yang telah saya buat:
 
 | 🚀 Repository | 📜 Deskripsi |
 |-------------|-------------|
-| [Repo1](https://github.com/DannOfficial/Repo1) | Deskripsi singkat tentang repository ini |
-| [Repo2](https://github.com/DannOfficial/Repo2) | Deskripsi singkat tentang repository ini |
-| [Repo3](https://github.com/DannOfficial/Repo3) | Deskripsi singkat tentang repository ini |
-| [Repo4](https://github.com/DannOfficial/Repo4) | Deskripsi singkat tentang repository ini |
+| [Spotify](https://github.com/DannOfficial/Spotify) | Spotify clone menggunakan api |
+| [Baileys](https://github.com/DannOfficial/Baileys) | WhatsApp Web Api menggunakan typescript/javascript |
+| [Rest-API](https://github.com/DannOfficial/api) | Restfull API's menggunakan Nodejs serta framework lainnya |
+| [Dann-Legacy](https://github.com/DannOfficial/dann-legacy) | WhatsApp bot Multidevice menggunakan Nodejs |
 
 > 💡 *Klik pada nama repository untuk melihat lebih detail!*
 
