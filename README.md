@@ -13,8 +13,8 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **awesome projects**  
-- 🌱 I’m currently learning **new technologies**  
+- 🔭 I’m currently leaders and working on **DannTeam Community**  
+- 🌱 I’m currently learning **love**  
 - 💬 Ask me about **web development, backend, and more**  
 - 📫 How to reach me: **[DannOfficial](https://github.com/DannOfficial)**  
 - ⚡ Fun fact: I love **coding & coffee ☕**  
