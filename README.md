@@ -35,7 +35,7 @@
 
 ### 💻 Programming Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,php,rust,go" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,php,rust,go,html,css" />
 </p>
 
 ### 🧩 Frameworks & Libraries  
