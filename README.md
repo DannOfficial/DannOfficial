@@ -53,9 +53,9 @@ Berikut beberapa teknologi dan bahasa pemrograman yang saya kuasai:
 
 Jika ingin berdiskusi atau berkolaborasi, jangan ragu untuk menghubungi saya melalui:
 
-- 📧 Email: **youremail@example.com**
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- 📧 Email: **admin@dannteam.com**
+- 🐦 Twitter: [@dannteams](https://twitter.com/dannteams)
+- 💼 LinkedIn: [dannteam](https://linkedin.com/in/dannteam)
 
 ---
 
