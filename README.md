@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dani!</h1>
+<h1 align="center">Hi there, I'm DannOfficial! 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
@@ -6,18 +6,30 @@
 
 <p align="center">
   <a href="https://github.com/DannOfficial">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00a2ff&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor;Welcome+to+my+GitHub+Profile!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00a2ff&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor;I'm+in+Love+❤️;Welcome+to+my+GitHub+Profile!">
   </a>
 </p>
 
 ---
 
+## 💖 My Love Life  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF69B4&center=true&vCenter=true&width=500&lines=I'm+in+love+with+%E2%9D%A4%EF%B8%8F+Someone+Special" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300px">
+</p>
+
+---
+
 ## 🚀 About Me  
-- 🔭 I’m currently leaders and working on **DannTeam Community**  
-- 🌱 I’m currently learning **love**  
+- 🔭 I’m currently working on **awesome projects**  
+- 🌱 I’m currently learning **new technologies**  
 - 💬 Ask me about **web development, backend, and more**  
 - 📫 How to reach me: **[DannOfficial](https://github.com/DannOfficial)**  
-- ⚡ Fun fact: I love **coding & coffee ☕**  
+- ❤️ I’m in love with **Someone Special**  
 
 ---
 
@@ -76,7 +88,7 @@
 <p align="center">
   <a href="https://twitter.com/DannOfficial"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/DannOfficial"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:admin@dannteam.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:dann.official@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
