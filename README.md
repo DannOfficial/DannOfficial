@@ -15,19 +15,19 @@
 ## 💖 My Love Life  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF69B4&center=true&vCenter=true&width=500&lines=I'm+in+love+with+%E2%9D%A4%EF%B8%8F+Someone+Special" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF69B4&center=true&vCenter=true&width=500&lines=I'm+in+love+with+%E2%9D%A4%EF%B8%8F+Gitaaaa" />
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media4.giphy.com/media/3uv5ivx6xwqze/giphy.gif?cid=6c09b95226skm2yv52y6mzok7qm4b733wn2tejzq0oy7wlyj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)" width="40px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="300px">
 </p>
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **awesome projects**  
-- 🌱 I’m currently learning **new technologies**  
+- 🔭 I’m currently leaders and working on **DannTeam  Community**  
+- 🌱 I’m currently learning **love**  
 - 💬 Ask me about **web development, backend, and more**  
 - 📫 How to reach me: **[DannOfficial](https://github.com/DannOfficial)**  
-- ❤️ I’m in love with **Someone Special**  
+- ❤️ I’m in love with **Gita**  
 
 ---
 
