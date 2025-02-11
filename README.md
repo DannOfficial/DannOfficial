@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DannOfficial">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00a2ff&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor;I'm+in+Love+❤️;Welcome+to+my+GitHub+Profile!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00a2ff&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor;Welcome+to+my+GitHub+Profile!">
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning **love**  
 - 💬 Ask me about **web development, backend, and more**  
 - 📫 How to reach me: **[DannOfficial](https://github.com/DannOfficial)**  
-- ❤️ I’m in love with **Gita**  
+- ❤️ I’m in love with **Sheyra Anggita Dewi**  
 
 ---
 
