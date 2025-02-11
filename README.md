@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="lucky star blush GIF https://media.giphy.com/media/3uv5ivx6xwqze/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/3uv5ivx6xwqze/giphy.gif" width="300px">
 </p>
 
 ## 🚀 About Me  
