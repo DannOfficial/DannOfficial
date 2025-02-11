@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dani! 👋</h1>
+<h1 align="center">Hi there, I'm Dani!</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
@@ -43,11 +43,11 @@
 ## 📂 My Repositories  
 
 ### 🔥 Featured Repositories  
-<a href="https://github.com/DannOfficial/cool-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DannOfficial&repo=cool-project&theme=radical" />
+<a href="https://github.com/DannOfficial/Spotify">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DannOfficial&repo=Spotify&theme=radical" />
 </a>
-<a href="https://github.com/DannOfficial/awesome-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DannOfficial&repo=awesome-app&theme=radical" />
+<a href="https://github.com/DannOfficial/Baileys">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DannOfficial&repo=Baileys&theme=radical" />
 </a>
 
 ### 🌟 Other Repositories  
