@@ -15,7 +15,7 @@
 ## 💖 My Love Life  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF69B4&center=true&vCenter=true&width=500&lines=I'm+in+love+with+%E2%9D%A4%EF%B8%8F+?" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF69B4&center=true&vCenter=true&width=500&lines=I'm+in+love+with+%E2%9D%A4%EF%B8%8F+Selly+<3" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning **love**  
 - 💬 Ask me about **web development, backend, and more**  
 - 📫 How to reach me: **[DannOfficial](https://github.com/DannOfficial)**  
-- ❤️ I’m in love with **?**  
+- ❤️ I’m in love with **Selly?**  
 
 ---
 
