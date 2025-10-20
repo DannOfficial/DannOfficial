@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning **love**  
 - 💬 Ask me about **web development, backend, and more**  
 - 📫 How to reach me: **[DannOfficial](https://github.com/DannOfficial)**  
-- ❤️ I’m in love with **Selly?**  
+- ❤️ I’m in love with **Selly Beby Syafira**  
 
 ---
 
