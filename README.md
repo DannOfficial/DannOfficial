@@ -27,7 +27,7 @@
 - 🔭 I’m currently leading and working on **DannTeam Community**
 - 🌱 I’m currently learning **love & advanced backend systems**
 - 💬 Ask me about **web development, backend architectures, and more**
-- 📫 How to reach me: **[GitHub Profile](https://github.com/DannOfficial)**
+- 📫 How to reach me: **[Click](https://github.com/DannOfficial)**
 - ❤️ I’m in love with **Nathalie**
 
 ---
